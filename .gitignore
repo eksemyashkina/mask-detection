@@ -1,0 +1,7 @@
+weights/
+**/__pycache__/
+venv/
+*-logs/
+data/masks/
+test.ipynb
+extra/
